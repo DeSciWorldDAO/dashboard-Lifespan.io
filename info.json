@@ -1,1 +1,38 @@
+{"name":"Lifespan.io",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":" ",
+"description":"Lifespan.io is a 501(c)(3) nonprofit organization with a mission to promote the advancement of biomedical technologies which will increase healthy human lifespan. By sponsoring and democratizing research efforts through crowdfunding, decentralized science, and engaging the public in thoughtful dialogue, we aim to accelerate the achievement of this important humanitarian goal for all humankind. We run the largest unbiased news outlet dedicated to aging research, large-scale fundraising campaigns and DeSci projects, and YouTube channels with over 3 million subscribes to inform and inspire the public. ",
+"whitePaperLink":"https://www.lifespan.io/what-we-do/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/watch?v=Unb1mvGWIhI",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=Unb1mvGWIhI"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://www.youtube.com/lifenogginhttps://www.youtube.com/lifenoggin",        
+       "source": "youtube",
+       "link": " https://www.youtube.com/lifenoggin"  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/ppHjNNu.jpg",     
+      "source": "image",
+       "link": "https://www.youtube.com/lifespannews"  }
+],
+"deleted":false,
+"primaryColor":"#70abd8",
+"twitterHandle":"LifespanIO",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://pbs.twimg.com/profile_images/1303743628569968642/CAUc2pVY_400x400.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.lifespan.io",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Decentralized biotech" , "NFTs", "Decentralized Funding", "Science DeFi", "Philanthropy", "Publishing", "Ecosystems"]
+  
+}
