@@ -7,14 +7,14 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.youtube.com/watch?v=Unb1mvGWIhI",
+       "mediaUrl": "https://www.youtube.com/embed/Unb1mvGWIhI",
        "source": "youtube",
        "link": "https://www.youtube.com/watch?v=Unb1mvGWIhI"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": " https://www.youtube.com/lifenogginhttps://www.youtube.com/lifenoggin",        
+       "mediaUrl": "https://www.youtube.com/embed/lifenoggin",        
        "source": "youtube",
-       "link": " https://www.youtube.com/lifenoggin"  },
+       "link": "https://www.youtube.com/lifenoggin"  },
  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/ppHjNNu.jpg",     
